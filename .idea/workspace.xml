@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="" />
+    <list default="true" id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/utils/PageModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java_web_project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kp9Q4sEGWJn3OBzxj8pSAqczjF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,7 +52,20 @@
       <recent name="$PROJECT_DIR$/web/js" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PageModel">
+    <configuration name="PageModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mgallery.utils.PageModel" />
+      <module name="mgallery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mgallery.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XmlDataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.mgallery.utils.XmlDataSource" />
       <module name="mgallery" />
@@ -64,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PageModel" />
         <item itemvalue="Application.XmlDataSource" />
       </list>
     </recent_temporary>
@@ -90,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606386646789</updated>
-      <workItem from="1606386650836" duration="8772000" />
+      <workItem from="1606386650836" duration="11814000" />
     </task>
     <servers />
   </component>
@@ -98,30 +116,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1606395752715">
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1606401084943">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606395752715" />
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401084943" />
     <state x="388" y="80" key="#jaxen-1.1.6.jar" timestamp="1606395266034">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="388" y="80" key="#jaxen-1.1.6.jar/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606395266034" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1606396576486">
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1606401397381">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576486" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1606396576485">
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397381" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1606401397379">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576485" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1606396576484">
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397379" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1606401397378">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576484" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1606396576486">
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397378" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1606401397380">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576486" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397380" />
     <state width="1398" height="244" key="GridCell.Tab.1.bottom" timestamp="1606396576488">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
