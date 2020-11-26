@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java_web_project" />
+  </component>
+  <component name="ProjectId" id="1kp9Q4sEGWJn3OBzxj8pSAqczjF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/web/upload" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/web/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="XmlDataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mgallery.utils.XmlDataSource" />
+      <module name="mgallery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mgallery.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.XmlDataSource" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="" />
+      <created>1606386646789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606386646789</updated>
+      <workItem from="1606386650836" duration="8772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1606395752715">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="533" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606395752715" />
+    <state x="388" y="80" key="#jaxen-1.1.6.jar" timestamp="1606395266034">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="388" y="80" key="#jaxen-1.1.6.jar/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606395266034" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1606396576486">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576486" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1606396576485">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576485" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1606396576484">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576484" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1606396576486">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576486" />
+    <state width="1398" height="244" key="GridCell.Tab.1.bottom" timestamp="1606396576488">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.1.bottom/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576488" />
+    <state width="1398" height="244" key="GridCell.Tab.1.center" timestamp="1606396576487">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.1.center/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576487" />
+    <state width="1398" height="244" key="GridCell.Tab.1.left" timestamp="1606396576487">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.1.left/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576487" />
+    <state width="1398" height="244" key="GridCell.Tab.1.right" timestamp="1606396576488">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.1.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576488" />
+    <state x="97" y="47" key="new project wizard" timestamp="1606388333877">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="97" y="47" key="new project wizard/0.23.1440.877/1440.23.2560.1334@0.23.1440.877" timestamp="1606388333877" />
+  </component>
+</project>

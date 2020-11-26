@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 数据文件 -->
+<root>
+	<painting id="1">
+		<pname>Oil Painting 1</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/1.jpg</preview>
+		<description>Description of Oil Painting 1</description>
+	</painting>
+	<painting id="2">
+		<pname>oil painting 2</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/2.jpg</preview>
+		<description>Description of Oil Painting 2</description>
+	</painting>
+	<painting id="3">
+		<pname>Oil Painting 3</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/3.jpg</preview>
+		<description>Description of Oil Painting 3</description>
+	</painting>
+	<painting id="4">
+		<pname>Oil Painting 4</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/4.jpg</preview>
+		<description>Description of Oil Painting 4</description>
+	</painting>
+	<painting id="5">
+		<pname>Oil Painting 5</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/5.jpg</preview>
+		<description>Description of Oil Painting 5</description>
+	</painting>
+	<painting id="6">
+		<pname>Oil Painting 6</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/6.jpg</preview>
+		<description>Description of Oil Painting 6</description>
+	</painting>
+	<painting id="7">
+		<pname>Oil Painting 7</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/7.jpg</preview>
+		<description>Description of Oil Painting 7</description>
+	</painting>
+	<painting id="8">
+		<pname>Oil Painting 8</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/8.jpg</preview>
+		<description>Description of Oil Painting 8</description>
+	</painting>
+	<painting id="9">
+		<pname>Oil Painting 9</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/9.jpg</preview>
+		<description>Description of Oil Painting 9</description>
+	</painting>
+	<painting id="9">
+		<pname>Oil Painting 9</pname>
+		<category>1</category>
+		<price>3800</price>
+		<preview>/upload/9.jpg</preview>
+		<description>Description of Oil Painting 9</description>
+	</painting>
+	<painting id="10">
+		<pname>Abstract Painting 1</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/10.jpg</preview>
+		<description>Description of Abstract Painting 1</description>
+	</painting>
+	<painting id="11">
+		<pname>Abstract Painting 2</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/11.jpg</preview>
+		<description>Description of Abstract Painting 2</description>
+	</painting>
+	<painting id="12">
+		<pname>Abstract Painting 3</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/12.jpg</preview>
+		<description>Description of Abstract Painting 3</description>
+	</painting>
+	<painting id="13">
+		<pname>Abstract Painting 4</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/13.jpg</preview>
+		<description>Description of Abstract Painting 4</description>
+	</painting>
+	<painting id="14">
+		<pname>Abstract Painting 5</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/14.jpg</preview>
+		<description>Description of Abstract Painting 5</description>
+	</painting>
+	<painting id="15">
+		<pname>Abstract Painting 6</pname>
+		<category>2</category>
+		<price>3800</price>
+		<preview>/upload/15.jpg</preview>
+		<description>Description of Abstract Painting 6</description>
+	</painting>
+	
+</root>
