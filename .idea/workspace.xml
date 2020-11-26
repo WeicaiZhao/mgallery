@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/utils/PageModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/dao/PaintingDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/service/PaintingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +52,26 @@
       <recent name="$PROJECT_DIR$/web/js" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PageModel">
+  <component name="RunManager" selected="Application.PaintingService">
     <configuration name="PageModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.imooc.mgallery.utils.PageModel" />
       <module name="mgallery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.imooc.mgallery.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintingService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mgallery.service.PaintingService" />
+      <module name="mgallery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mgallery.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaintingService" />
         <item itemvalue="Application.PageModel" />
         <item itemvalue="Application.XmlDataSource" />
       </list>
@@ -108,7 +122,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606386646789</updated>
-      <workItem from="1606386650836" duration="11814000" />
+      <workItem from="1606386650836" duration="14073000" />
     </task>
     <servers />
   </component>
@@ -124,22 +138,26 @@
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="388" y="80" key="#jaxen-1.1.6.jar/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606395266034" />
-    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1606401397381">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1606420195590">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397381" />
-    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1606401397379">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.23.1440.805/1440.23.2560.1417@0.23.1440.805" timestamp="1606420195590" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1606420195589">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397379" />
-    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1606401397378">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.23.1440.805/1440.23.2560.1417@0.23.1440.805" timestamp="1606420195589" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1606420195588">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397378" />
-    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1606401397380">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.23.1440.805/1440.23.2560.1417@0.23.1440.805" timestamp="1606420195588" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1606420195590">
+      <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606401397380" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.23.1440.805/1440.23.2560.1417@0.23.1440.805" timestamp="1606420195590" />
     <state width="1398" height="244" key="GridCell.Tab.1.bottom" timestamp="1606396576488">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
