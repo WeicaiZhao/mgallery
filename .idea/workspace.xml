@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="face2b8d-e8c5-44b7-b818-ec244d4182dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/dao/PaintingDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/imooc/mgallery/service/PaintingService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606386646789</updated>
-      <workItem from="1606386650836" duration="14073000" />
+      <workItem from="1606386650836" duration="17228000" />
     </task>
     <servers />
   </component>
@@ -174,9 +172,11 @@
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.1.right/0.23.1440.803/1440.23.2560.1417@0.23.1440.803" timestamp="1606396576488" />
-    <state x="97" y="47" key="new project wizard" timestamp="1606388333877">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="87" y="59" key="new project wizard" timestamp="1606502096879">
+      <screen x="0" y="23" width="1440" height="807" />
     </state>
+    <state x="87" y="59" key="new project wizard/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606502096879" />
+    <state x="87" y="59" key="new project wizard/0.23.1440.810@0.23.1440.810" timestamp="1606449342015" />
     <state x="97" y="47" key="new project wizard/0.23.1440.877/1440.23.2560.1334@0.23.1440.877" timestamp="1606388333877" />
   </component>
 </project>
